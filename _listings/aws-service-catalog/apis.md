@@ -28,7 +28,7 @@ apis:
   tags: Constraints
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/constraints/master/_listings/aws-service-catalog/action-createconstraint-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/constraints/master/_listings/aws-service-catalog/action-deleteconstraint-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/servicecatalog/latest/dg/service-catalog-api-overview.html

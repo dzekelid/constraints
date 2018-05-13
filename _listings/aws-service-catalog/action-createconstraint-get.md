@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Service Catalog API
+  title: AWS Service Catalog API Create Constraint
   version: 1.0.0
+  description: Creates a new constraint.
 schemes:
 - http
 produces:
